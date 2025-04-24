@@ -33,6 +33,9 @@ Beyond the screen, I’m a sports lover who enjoys the thrill of teamwork and co
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-593D88?style=flat&logo=redux&logoColor=white)  
 ![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=flat&logo=react&logoColor=white)
 
+**Middleware:**  
+![Redux-Saga](https://img.shields.io/badge/-Redux%20Saga-999999?style=flat&logo=redux-saga&logoColor=white)
+
 **Languages & Tooling:**  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
