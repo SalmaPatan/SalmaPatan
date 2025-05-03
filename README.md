@@ -66,7 +66,7 @@ Beyond the screen, I’m a sports lover who enjoys the thrill of teamwork and co
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/patan-salma/)  
-- 📬 Email: [youremail@example.com](mailto:salmapatan293@gmail.com)
+- 📬 Email: [salmapatan293@gmail.com](mailto:salmapatan293@gmail.com)
 
 ---
 
